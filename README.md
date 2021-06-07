@@ -17,7 +17,6 @@
 You can deploy this bot anywhere.
 
 **[Watch Deploying Tutorial...]()**
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
