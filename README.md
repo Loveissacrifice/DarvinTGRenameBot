@@ -16,13 +16,21 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
-**[Watch Deploying Tutorial...]()**
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To Heruko</summary>
 <p>
 <pre>
-<a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+**[Watch Deploying Tutorial...]()**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
+</pre>
+</p>
+</details>
+
+<details><summary>How To Create This BoT</summary>
+<p>
+<pre>
+**[Watch Deploying Tutorial...]()**
+</pre>
 </p>
 </details>
 
