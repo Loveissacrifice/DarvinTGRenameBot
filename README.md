@@ -24,7 +24,6 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot)
 </pre>
 </p>
@@ -33,7 +32,7 @@ Deploy To Hereku👇
 <details><summary>How To Create This BoT</summary>
 <p>
 <pre>
-**[Watch Deploying Tutorial...]()**
+**[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 </pre>
 </p>
 </details>
