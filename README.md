@@ -29,13 +29,8 @@ Deploy To Hereku👇
 </p>
 </details>
 
-<details><summary>How To Create This BoT</summary>
-<p>
-<pre>
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
-</pre>
-</p>
-</details>
+
 
 <details><summary>Any Bugs</summary>
 <p>
