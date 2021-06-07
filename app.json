@@ -20,7 +20,7 @@
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "UPDATE_CHANNEL_WITHOUT_@": {
+    "UPDATE_CHANNEL_WITHOUT": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @).. Also Make The Bot Admin In That Channel!! ",
       "value": ""
     },
