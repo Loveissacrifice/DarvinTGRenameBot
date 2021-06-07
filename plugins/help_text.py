@@ -107,8 +107,9 @@ async def start_me(bot, update):
                 ],
                 [
                     InlineKeyboardButton('🤖 Other Rename Bots 🤖', url='https://t.me/Mo_Tech_YT/141')
+                ],
                 [
-                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/Mai_bOTs/17')
+                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/Mo_Tech_YT/17')
                 ]
             ]
         ),
