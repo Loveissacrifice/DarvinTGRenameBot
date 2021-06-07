@@ -5,7 +5,7 @@ logger = logging.getLogger(__name__)
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 import os
 
-if bool(os.environ.get("WEBHOOK", False)):
+if bool(os.environ.get("MO_TECH_YT", False)):
     from sample_config import Config
 else:
     from config import Config
