@@ -7,7 +7,7 @@ class Config(object):
     APP_ID = int(os.environ.get("APP_ID", 12345))
     API_HASH = os.environ.get("API_HASH")
     # Update channel for Force Subscribe
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL_WITHOUT_@", "")
+    UPDATE_CHANNEL = os.environ.get("FORCE_SUB", "")
     # log channel
     #LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "")
     # Get these values from my.telegram.org
