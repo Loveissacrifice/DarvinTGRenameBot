@@ -1,5 +1,5 @@
 {
-  "name": "TG Rename Bot",
+  "name": "MT Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,32 +8,32 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/Mai_bOTs",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/Renamebot",
+  "success_url": "https://telegram.dog/Mo_Tech_YT",
+  "website": "https://github.com/MoTechYT",
+  "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "TG_BOT_TOKEN": {
+    "MT_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
       "value": ""
     },
-    "UPDATE_CHANNEL": {
+    "UPDATE_CHANNEL_WITHOUT_@": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @).. Also Make The Bot Admin In That Channel!! ",
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "allow only pre-defined users to use this bot",
+      "description": "allow only pre-defined users to use this bot @MT_SHOWJSON_BOT",
       "value": ""
     },
     "BANNED_USERS": {
