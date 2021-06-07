@@ -19,7 +19,7 @@ You can deploy this bot anywhere.
 **[Watch Deploying Tutorial...]()**
 <details><summary>Deploy To Heroku</summary>
 <p>
-<br>
+<pre>
 <a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rename-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
