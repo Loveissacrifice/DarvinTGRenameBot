@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K & @No_OnE_Kn0wS_Me
+# (c) Shrimadhav U K, @No_OnE_Kn0wS_Me & Mrk_YT
 
 # the logging things
 import logging
@@ -90,7 +90,7 @@ async def start_me(bot, update):
             await update.reply_text(
                 text="**Please Join My Update Channel Before Using Me..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔔 Join My Updates Channel 🔔", url=f"https://t.me/{update_channel}")]
               ])
             )
             return
@@ -102,12 +102,13 @@ async def start_me(bot, update):
                         InlineKeyboardButton("Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton('Support Channel', url='https://t.me/Mai_bOTs'),
-                    InlineKeyboardButton('Feedback', url='https://t.me/No_OnE_Kn0wS_Me')
+                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/Mo_Tech_Group'),
+                    InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/Mo_Tech_YT')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
-                    InlineKeyboardButton('Source', url='https://github.com/No-OnE-Kn0wS-Me/FileRenameBot')
+                    InlineKeyboardButton('🤖 Other Rename Bots 🤖', url='https://t.me/Mo_Tech_YT/141')
+                [
+                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/Mai_bOTs/17')
                 ]
             ]
         ),
@@ -125,8 +126,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
+                    InlineKeyboardButton("Close 🔐", callback_data = "close")
                 ]
             ]
         )
@@ -138,8 +139,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
+                    InlineKeyboardButton("Close 🔐", callback_data = "close")
                 ]
             ]
         )
@@ -151,8 +152,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
+                    InlineKeyboardButton("Close 🔐", callback_data = "close")
                 ]
             ]
         )
@@ -181,8 +182,12 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Back', callback_data = "ghelp"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                    InlineKeyboardButton('👨‍🎓Credits', url="https://t.me/Mai_bOTs"),
+                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/Mo_Tech_Group")
+                ],
+                [
+                    InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
+                    InlineKeyboardButton("Close 🔐", callback_data = "close")
                 ]
             ]
         )
