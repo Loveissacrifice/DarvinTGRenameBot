@@ -107,7 +107,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/Mo_Tech_YT')
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/Mo_Tech_YT/17')
+                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/wCB2zbwEguA')
                 ]
             ]
         ),
