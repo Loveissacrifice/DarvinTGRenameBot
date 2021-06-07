@@ -31,8 +31,10 @@ You can deploy this bot anywhere.
 <details><summary>Any Bugs</summary>
 <p>
 <pre>
-If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through [Telegram ](https://telegram.dog/No_OnE_Kn0wS_Me) 
-Also Support Our [Mo Tech YT](https://telegram.dog/Mo_Tech_YT) 
+If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Through
+[Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
+Also Support Our
+[Mo Tech YT](https://telegram.dog/Mo_Tech_YT) 
 </pre>
 </p>
 </details>
@@ -40,8 +42,8 @@ Also Support Our [Mo Tech YT](https://telegram.dog/Mo_Tech_YT)
 <details><summary>An Multi purpose Bot Which Can</summary>
 <p>
 <br>
-* ✅Rename Telegram Files 
-* ✅Convert Files into Video
+✅Rename Telegram Files 
+✅Convert Files into Video
 </pre>
 </p>
 </details>
