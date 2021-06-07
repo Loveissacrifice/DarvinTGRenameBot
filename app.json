@@ -12,7 +12,7 @@
   "website": "https://github.com/MoTechYT",
   "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
   "env": {
-    "MO_TECH_YT": {
+    "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
