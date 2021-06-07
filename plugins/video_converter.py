@@ -50,7 +50,7 @@ async def convert_to_video(bot, update):
             await update.reply_text(
                 text="**Please Join My Update Channel Before Using Me..**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="🔔Join My Updates Channel🔔", url=f"https://t.me/{update_channel}")]
               ])
             )
             return  
@@ -89,7 +89,7 @@ async def convert_to_video(bot, update):
           #  )
             logger.info(the_real_download_location)
             # get the correct width, height, and duration for videos greater than 10MB
-            # ref: message from @BotSupport
+            # ref: message from @Mo_Tech_Group
             width = 0
             height = 0
             duration = 0
