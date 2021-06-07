@@ -1,6 +1,5 @@
 ## MT Rename Bot
 
-    </a>
 </p>
 <p align="center">
   <a href="https://github.com/MRK-YT/MT-Rename-Bot/stargazers">
@@ -36,7 +35,6 @@ If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Me Throu
 [Telegram](https://telegram.dog/No_OnE_Kn0wS_Me) 
 
 Also Support Our
-
 [Mo Tech YT](https://telegram.dog/Mo_Tech_YT) 
 </pre>
 </p>
